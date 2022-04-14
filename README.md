@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Mushtariy00
-- 👀 I’m interested in Machine Learning AI, Computer Vision,
-- 🌱 I’m currently learning Python, Tensorflow, 
-- 💞️ I’m looking to collaborate on Machine Learning Algorithms, Computer Vision Projects
-- 📫 How to reach me mushtariy9800@gmail.com
+# Train a custom object detection model with TensorFlow Lite Model Maker
 
-
+In this colab notebook, we use the TensorFlow Lite Model Maker to train a custom object detection model and use it on Rapberry Pi.
+We use exsisting trained model to train our model with our custom dataset. This method is called  *transfer learning*. Retraining a exsisting model with your own custom dataset reduces the amount of training data and will shorten the training time.
